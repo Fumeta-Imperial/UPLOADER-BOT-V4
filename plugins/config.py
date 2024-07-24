@@ -11,7 +11,7 @@ logging.basicConfig(
 
 class Config(object):
     
-    BOT_TOKEN = os.environ.get("BOT_TOKEN", "7281039003:AAFqm0kIovUHekX2sveJPKSlJL3BWve41sQ")
+    BOT_TOKEN = os.environ.get("BOT_TOKEN", "7281039003:AAFtyonDe-gwcHrrO4_yGCdqfKyc-sbdx-k")
     
     API_ID = int(os.environ.get("API_ID", "15968596"))
     
@@ -39,7 +39,7 @@ class Config(object):
     
     DEF_WATER_MARK_FILE = "UploadLinkToFileBot"
     
-    DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://FakeBot:FakeBot@fumbot.3lhq2lm.mongodb.net/?retryWrites=true&w=majority&appName=FumBOT")
+    DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://Lala22156:Lala22156@lolis.q8mkbyk.mongodb.net/?retryWrites=true&w=majority&appName=lolis")
     
     SESSION_NAME = os.environ.get("SESSION_NAME", "UploadLinkToFileBot")
     
